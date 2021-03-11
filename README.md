@@ -15,4 +15,4 @@ software:
 > * serial
 > * [pyzbar](https://pypi.org/project/pyzbar/)
 
-![image-20210311135606447](/home/zyk/.config/Typora/typora-user-images/image-20210311135606447.png)
+![image-20210311135606447](https://github.com/Yorkzhang19961122/ASD_Visualization/blob/main/pic.png)
